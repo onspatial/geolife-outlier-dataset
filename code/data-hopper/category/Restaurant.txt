@@ -1,0 +1,3 @@
+amenity, restaurant
+amenity, fast_food
+amenity, food_court

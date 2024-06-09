@@ -1,0 +1,84 @@
+Each configuration has train and test dataset 
+Since there were users with few records, we choose agents with atleast 50 records resulted in 69 users and atleast 100 records resulted in 45 users
+----------------------------------
+file name pattern: *-numberOfOutliers-outliers-totalAgents-agents-trainPercentage-normal-portion.tsv
+number of outliers: 5
+total agents: 69
+normal data for each outlier: 90.0%
+file name pattern: *-5-outliers-69-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17]
+number of outliers: 10
+total agents: 69
+normal data for each outlier: 90.0%
+file name pattern: *-10-outliers-69-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0]
+number of outliers: 15
+total agents: 69
+normal data for each outlier: 90.0%
+file name pattern: *-15-outliers-69-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38]
+number of outliers: 20
+total agents: 69
+normal data for each outlier: 90.0%
+file name pattern: *-20-outliers-69-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38, 84, 2, 126, 52, 41]
+number of outliers: 5
+total agents: 69
+normal data for each outlier: 80.0%
+file name pattern: *-5-outliers-69-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17]
+number of outliers: 10
+total agents: 69
+normal data for each outlier: 80.0%
+file name pattern: *-10-outliers-69-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0]
+number of outliers: 15
+total agents: 69
+normal data for each outlier: 80.0%
+file name pattern: *-15-outliers-69-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38]
+number of outliers: 20
+total agents: 69
+normal data for each outlier: 80.0%
+file name pattern: *-20-outliers-69-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38, 84, 2, 126, 52, 41]
+number of outliers: 5
+total agents: 45
+normal data for each outlier: 80.0%
+file name pattern: *-5-outliers-45-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17]
+number of outliers: 10
+total agents: 45
+normal data for each outlier: 80.0%
+file name pattern: *-10-outliers-45-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0]
+number of outliers: 15
+total agents: 45
+normal data for each outlier: 80.0%
+file name pattern: *-15-outliers-45-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38]
+number of outliers: 20
+total agents: 45
+normal data for each outlier: 80.0%
+file name pattern: *-20-outliers-45-agents-0.8-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38, 84, 2, 126, 52, 41]
+number of outliers: 5
+total agents: 45
+normal data for each outlier: 90.0%
+file name pattern: *-5-outliers-45-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17]
+number of outliers: 10
+total agents: 45
+normal data for each outlier: 90.0%
+file name pattern: *-10-outliers-45-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0]
+number of outliers: 15
+total agents: 45
+normal data for each outlier: 90.0%
+file name pattern: *-15-outliers-45-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38]
+number of outliers: 20
+total agents: 45
+normal data for each outlier: 90.0%
+file name pattern: *-20-outliers-45-agents-0.9-normal-portion.tsv
+Outliers: [4, 3, 30, 163, 17, 68, 128, 22, 167, 0, 144, 39, 35, 85, 38, 84, 2, 126, 52, 41]

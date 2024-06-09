@@ -1,0 +1,28 @@
+[
+    {
+        "China": {
+            "minLatitude": 18.15,
+            "maxLatitude": 53.55,
+            "minLongitude": 73.66,
+            "maxLongitude": 135.05
+        },
+        "Germany": {
+            "minLatitude": 47.27,
+            "maxLatitude": 55.06,
+            "minLongitude": 5.87,
+            "maxLongitude": 15.04
+        },
+        "Italy": {
+            "minLatitude": 36.65,
+            "maxLatitude": 47.09,
+            "minLongitude": 6.62,
+            "maxLongitude": 18.79
+        },
+        "USA": {
+            "minLatitude": 18.15,
+            "maxLatitude": 53.55,
+            "minLongitude": 73.66,
+            "maxLongitude": 135.05
+        }
+    }
+]

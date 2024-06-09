@@ -1,0 +1,1 @@
+needleRootDirectory = 'data/cities/needles'
