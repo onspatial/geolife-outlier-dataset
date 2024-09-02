@@ -1,5 +1,5 @@
 
 # Dataset Download:
-1. This Repository: [data](geolife)
-2. on [OSF](https://osf.io/rxnz7/)
+1. Information: [info](geolife)
+2. Dataset: on [OSF](https://osf.io/rxnz7/)
 
