@@ -1,7 +1,7 @@
 
 # Dataset Download:
 1. [Information](geolife)
-2. [Downaload from OSF](https://osf.io/rxnz7/)
+2. [Download from OSF](https://osf.io/rxnz7/)
 
 
 # steps to reproduce the dataset:
